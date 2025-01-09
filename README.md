@@ -18,11 +18,12 @@ A Python-based tool to capture, decode, and analyze network traffic in real-time
 
 🚀 Getting Started
 
-    Clone the repository:
+    Clone the repository: 
 
-git clone   
+git clone https://github.com/Resal1/CodeAlpha_Project_Network_SnifferX.git   
 
 Run the script with root/admin privileges:
+    chmod +x Network_SnifferX.py
 
     sudo python3 Network_SnifferX.py  
 
